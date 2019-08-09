@@ -7,6 +7,6 @@ Replace your `app/Providers/AppServiceProvider.php` with `AppServiceProvider.php
 
 ## Usage
 
-An example is given in `web.php` on how to get Guzzle client which will log all requests. 
+An example is given in `routes/web.php` on how to get Guzzle client which will log all requests. 
 
  
